@@ -21,3 +21,4 @@ const sectionTitleDOM = document.querySelector('h2.section-title > span');
 
 // sectionTitleDOM.innerText = sectionTitle;
 sectionTitleDOM.textContent = sectionTitle;
+
